@@ -2,7 +2,8 @@
 
 This repository contains the **Snake Game**, a Java-based GUI application developed as part of my 2nd-semester project. The game is a modern take on the classic Snake game, implemented using Java's Swing framework.
 
-![Game Start Screen](images/game_start_screen.png)
+![Game Start Screen](images/Screenshot 2024-08-11 004044.png)
+![Game Play Screen](images/Screenshot 2024-08-11 004100.png)
 *The initial screen when the game starts.*
 
 ## Table of Contents
