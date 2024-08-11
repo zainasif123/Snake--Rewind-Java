@@ -1,7 +1,8 @@
 # Snake Game - Java GUI Project
 
 This repository contains the **Snake Game**, a Java-based GUI application developed as part of my 2nd-semester project. The game is a modern take on the classic Snake game, implemented using Java's Swing framework.
-
+## Screenshots
+Here are some screenshots of the game:
 ![Game Start Screen](https://github.com/zainasif123/Snake--Rewind-Java/blob/main/images/Screenshot%202024-08-11%20004044.png)
 ![Game Play Screen](https://github.com/zainasif123/Snake--Rewind-Java/blob/main/images/Screenshot%202024-08-11%20004100.png)
 *The initial screen when the game starts.*
@@ -67,14 +68,8 @@ The Snake Game is a simple yet engaging game where the player controls a snake t
   - **`gameOver()`**: Displays the final score and a "Game Over" message.
 - **`MyKeyAdapter`**: Handles keyboard input for controlling the snake's movement.
 
-## Screenshots
-Here are some screenshots of the game:
 
-![Gameplay Screenshot](images/gameplay_screenshot.png)
-*The snake in action, moving towards a rat.*
 
-![Game Over Screen](images/game_over_screen.png)
-*The screen displayed when the game ends.*
 
 ## Contributing
 Contributions are welcome! If you have any ideas or suggestions, feel free to open an issue or create a pull request.
